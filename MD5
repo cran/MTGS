@@ -1,0 +1,10 @@
+694a687d145022620cdabb8a2a9c5a58 *DESCRIPTION
+f385c65037ed975d179392dac6f30792 *NAMESPACE
+a198970696eb4b37dd5b57a61fb61c93 *R/MTGS.kmlasso.R
+eee971853e3ace92a39fd195bcfe088e *R/MTGS.mlasso.R
+0d2a71bfff3c8b5a31eda2e8dbfc5e44 *R/MTGS.mrce.R
+fa8eb64f765db6d26660bb0ac0dce47d *data/brassica_data.RData
+d0891a1235e563c7b8f87ad7d3ca6a34 *man/MTGS.kmlasso.Rd
+e2a1a89b4762cdcf6617acc2cb6f87b6 *man/MTGS.mlasso.Rd
+8f01f8b7b481531c3a933aff4247d6f4 *man/MTGS.mrce.Rd
+7f539a31363ff099b84152773e12145d *man/brassica_data.Rd

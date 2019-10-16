@@ -1,0 +1,5 @@
+exportPattern("^[[:alpha:]]+")
+importFrom("stats", "predict", "sd")
+import(glmnet)
+import(kernlab)
+import(MRCE)
